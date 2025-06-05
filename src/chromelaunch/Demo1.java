@@ -10,6 +10,8 @@ public class Demo1 {
 
 		ChromeDriver driver=new ChromeDriver();
 		driver.get("https://www.flipkart.com/");
+		System.out.println("1st Line");
+		System.out.println("2nd Line");
 	}
 
 }
